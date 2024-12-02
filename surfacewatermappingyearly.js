@@ -1,3 +1,5 @@
+// You can run the code directly by clicking to this link: https://code.earthengine.google.com/de6bf316cf5725f6da15dfd67431f552
+
 var geometry = ee.Geometry.Polygon([
   [85.12130788331041, 27.569046531324418],
   [85.19460729126939, 27.569046531324418],
