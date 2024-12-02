@@ -1,3 +1,2 @@
 # rshydrology
-This repository provides a straightforward time series analysis of surface water mapping for the Kulekhani Reservoir.
-To extract the JRC data on the monthly basis run the Yearly Plots.py file which will generate the time series between JRC dataset.
+This repository provides a straightforward time series analysis of surface water mapping for the Kulekhani Reservoir. Surface water monthly file is a GEE script that downloads and manages the surface water animation. Monthy map can be accessed through the surfacewatermappingmonthly code which is a GEE script for monthly basis.To extract the surface water area from JRC data on the monthly basis run the Yearly Plots.py file which will generate the time series between JRC dataset. Similarly, monthky dataset can be accessed 
