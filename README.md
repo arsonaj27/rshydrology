@@ -1,2 +1,7 @@
 # rshydrology
-This repository provides a straightforward time series analysis of surface water mapping for the Kulekhani Reservoir. Surface water monthly file is a GEE script that downloads and manages the surface water animation. Monthy map can be accessed through the surfacewatermappingmonthly code which is a GEE script for monthly basis.To extract the surface water area from JRC data on the monthly basis run the Yearly Plots.py file which will generate the time series between JRC dataset. Similarly, monthky dataset can be accessed 
+This repository offers a straightforward time series analysis of surface water mapping for the Kulekhani Reservoir.
+
+The Surface Water Monthly script is a Google Earth Engine (GEE) script that facilitates downloading and managing surface water animations on a monthly basis. Monthly maps can be generated using the surfacewatermappingmonthly script, which is designed specifically for creating surface water maps on a monthly scale.
+
+To extract surface water areas from the JRC dataset on a monthly basis, you can run the Yearly Plots.py file, which generates time series data based on the JRC dataset. Similarly, the Monthly Plots Yearwise file provides access to monthly datasets and enables year-wise visualization of surface water data.
+
